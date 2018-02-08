@@ -1,0 +1,12 @@
+clean_ada_50.txt - training split - 100.0
+clean_ada_50.txt - test split - 75.2212
+clean_ada_66.txt - training split - 100.0
+clean_ada_66.txt - test split - 70.1299
+clean_ada_75.txt - training split - 100.0
+clean_ada_75.txt - test split - 67.2566
+clean_ada_90.txt - training split - 100.0
+clean_ada_90.txt - test split - 66.6667
+clean_ada_90.txt - training split - 100.0
+clean_ada_90.txt - test split - 66.6667
+clean_ada_cross.txt - training data - 100.0
+clean_ada_cross.txt - cross validation set - 71.6814

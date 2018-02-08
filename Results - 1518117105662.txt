@@ -1,0 +1,312 @@
+clean_ada_50.txt - training split - 100.0
+clean_ada_50.txt - test split - 75.2212
+clean_ada_66.txt - training split - 100.0
+clean_ada_66.txt - test split - 70.1299
+clean_ada_75.txt - training split - 100.0
+clean_ada_75.txt - test split - 67.2566
+clean_ada_90.txt - training split - 100.0
+clean_ada_90.txt - test split - 66.6667
+clean_ada_90.txt - training split - 100.0
+clean_ada_90.txt - test split - 66.6667
+clean_ada_cross.txt - training data - 100.0
+clean_ada_cross.txt - cross validation set - 71.6814
+clean_j48_50.txt - training split - 90.2655
+clean_j48_50.txt - test split - 71.2389
+clean_j48_50.txt - training split - 90.2655
+clean_j48_50.txt - test split - 71.2389
+clean_j48_50.txt - training split - 90.2655
+clean_j48_50.txt - test split - 71.2389
+clean_j48_60.txt - training split - 92.953
+clean_j48_60.txt - test split - 66.8831
+clean_j48_60.txt - training split - 92.953
+clean_j48_60.txt - test split - 66.8831
+clean_j48_60.txt - training split - 92.953
+clean_j48_60.txt - test split - 66.8831
+clean_j48_75.txt - training split - 89.6755
+clean_j48_75.txt - test split - 62.8319
+clean_j48_75.txt - training split - 89.6755
+clean_j48_75.txt - test split - 62.8319
+clean_j48_75.txt - training split - 89.6755
+clean_j48_75.txt - test split - 62.8319
+clean_j48_90.txt - training split - 90.9091
+clean_j48_90.txt - test split - 68.8889
+clean_j48_90.txt - training split - 90.9091
+clean_j48_90.txt - test split - 68.8889
+clean_j48_90.txt - training split - 90.9091
+clean_j48_90.txt - test split - 68.8889
+clean_j48cross_.txt - training data - 92.2566
+clean_j48cross_.txt - cross validation set - 66.3717
+clean_j48cross_.txt - training data - 92.2566
+clean_j48cross_.txt - cross validation set - 66.3717
+clean_j48cross_.txt - training data - 92.2566
+clean_j48cross_.txt - cross validation set - 66.3717
+clean_knn_50.txt - training split - 100.0
+clean_knn_50.txt - test split - 54.8673
+clean_knn_66.txt - training split - 100.0
+clean_knn_66.txt - test split - 51.9481
+clean_knn_75.txt - training split - 100.0
+clean_knn_75.txt - test split - 56.6372
+clean_knn_90.txt - training split - 99.7543
+clean_knn_90.txt - test split - 57.7778
+clean_mlp_50.txt - training split - 98.2301
+clean_mlp_50.txt - test split - 65.4867
+clean_mlp_66.txt - training split - 96.9799
+clean_mlp_66.txt - test split - 62.987
+clean_mlp_75.txt - training split - 97.9351
+clean_mlp_75.txt - test split - 72.5664
+clean_mlp_90.txt - training split - 97.2973
+clean_mlp_90.txt - test split - 75.5556
+clean_mlp_cross.txt - training data - 96.4602
+clean_mlp_cross.txt - cross validation set - 67.4779
+clean_nb_50.txt - training split - 83.6283
+clean_nb_50.txt - test split - 57.5221
+clean_nb_50.txt - training split - 83.6283
+clean_nb_50.txt - test split - 57.5221
+clean_nb_50.txt - training split - 83.6283
+clean_nb_50.txt - test split - 57.5221
+clean_nb_66.txt - training split - 80.8725
+clean_nb_66.txt - test split - 58.4416
+clean_nb_66.txt - training split - 80.8725
+clean_nb_66.txt - test split - 58.4416
+clean_nb_66.txt - training split - 80.8725
+clean_nb_66.txt - test split - 58.4416
+clean_nb_75.txt - training split - 77.2861
+clean_nb_75.txt - test split - 58.4071
+clean_nb_75.txt - training split - 77.2861
+clean_nb_75.txt - test split - 58.4071
+clean_nb_75.txt - training split - 77.2861
+clean_nb_75.txt - test split - 58.4071
+clean_nb_90.txt - training split - 78.6241
+clean_nb_90.txt - test split - 62.2222
+clean_nb_90.txt - training split - 78.6241
+clean_nb_90.txt - test split - 62.2222
+clean_nb_90.txt - training split - 78.6241
+clean_nb_90.txt - test split - 62.2222
+clean_nb_cross.txt - training data - 76.9912
+clean_nb_cross.txt - cross validation set - 63.0531
+clean_nb_cross.txt - training data - 76.9912
+clean_nb_cross.txt - cross validation set - 63.0531
+clean_nb_cross.txt - training data - 76.9912
+clean_nb_cross.txt - cross validation set - 63.0531
+clean_rf_50.txt - training split - 100.0
+clean_rf_50.txt - test split - 66.8142
+clean_rf_66.txt - training split - 100.0
+clean_rf_66.txt - test split - 64.2857
+clean_rf_75.txt - training split - 100.0
+clean_rf_75.txt - test split - 71.6814
+clean_rf_90.txt - training split - 100.0
+clean_rf_90.txt - test split - 75.5556
+clean_rf_cross.txt - training data - 100.0
+clean_rf_cross.txt - cross validation set - 67.2566
+clean_svm_50.txt - training split - 94.2478
+clean_svm_50.txt - test split - 68.1416
+clean_svm_66.txt - training split - 91.6107
+clean_svm_66.txt - test split - 65.5844
+clean_svm_75.txt - training split - 90.2655
+clean_svm_75.txt - test split - 74.3363
+clean_svm_90.txt - training split - 89.1892
+clean_svm_90.txt - test split - 73.3333
+clean_svm_cross.txt - training data - 89.3805
+clean_svm_cross.txt - cross validation set - 70.7965
+cleans101_ada_50.txt - training split - 100.0
+cleans101_ada_50.txt - test split - 68.1416
+cleans101_ada_66.txt - training split - 100.0
+cleans101_ada_66.txt - test split - 72.0779
+cleans101_ada_75.txt - training split - 100.0
+cleans101_ada_75.txt - test split - 74.3363
+cleans101_ada_90.txt - training split - 100.0
+cleans101_ada_90.txt - test split - 71.1111
+cleans101_ada_cross.txt - training data - 100.0
+cleans101_ada_cross.txt - cross validation set - 70.1327
+cleans101_j48_50.txt - training split - 90.708
+cleans101_j48_50.txt - test split - 60.6195
+cleans101_j48_60.txt - training split - 93.2886
+cleans101_j48_60.txt - test split - 65.5844
+cleans101_j48_75.txt - training split - 91.4454
+cleans101_j48_75.txt - test split - 71.6814
+cleans101_j48_90.txt - training split - 91.6462
+cleans101_j48_90.txt - test split - 55.5556
+cleans101_j48cross_.txt - training data - 92.2566
+cleans101_j48cross_.txt - cross validation set - 64.1593
+cleans101_knn_50.txt - training split - 100.0
+cleans101_knn_50.txt - test split - 51.7699
+cleans101_knn_66.txt - training split - 100.0
+cleans101_knn_66.txt - test split - 50.0
+cleans101_knn_75.txt - training split - 100.0
+cleans101_knn_75.txt - test split - 56.6372
+cleans101_knn_90.txt - training split - 99.7543
+cleans101_knn_90.txt - test split - 55.5556
+cleans101_knn_cross.txt - training data - 99.7788
+cleans101_knn_cross.txt - cross validation set - 54.2035
+cleans101_mlp_50.txt - training split - 97.7876
+cleans101_mlp_50.txt - test split - 66.8142
+cleans101_mlp_66.txt - training split - 96.9799
+cleans101_mlp_66.txt - test split - 65.5844
+cleans101_mlp_75.txt - training split - 96.4602
+cleans101_mlp_75.txt - test split - 73.4513
+cleans101_mlp_90.txt - training split - 94.5946
+cleans101_mlp_90.txt - test split - 66.6667
+cleans101_mlp_cross.txt - training data - 83.1858
+cleans101_mlp_cross.txt - cross validation set - 71.0177
+cleans101_nb_50.txt - training split - 84.5133
+cleans101_nb_50.txt - test split - 57.9646
+cleans101_nb_66.txt - training split - 77.5168
+cleans101_nb_66.txt - test split - 61.039
+cleans101_nb_75.txt - training split - 80.826
+cleans101_nb_75.txt - test split - 61.0619
+cleans101_nb_90.txt - training split - 76.4128
+cleans101_nb_90.txt - test split - 68.8889
+cleans101_nb_cross.txt - training data - 76.9912
+cleans101_nb_cross.txt - cross validation set - 62.3894
+cleans101_rf_50.txt - training split - 100.0
+cleans101_rf_50.txt - test split - 65.0442
+cleans101_rf_66.txt - training split - 100.0
+cleans101_rf_66.txt - test split - 67.5325
+cleans101_rf_75.txt - training split - 100.0
+cleans101_rf_75.txt - test split - 69.0265
+cleans101_rf_90.txt - training split - 100.0
+cleans101_rf_90.txt - test split - 62.2222
+cleans101_rf_cross.txt - training data - 100.0
+cleans101_rf_cross.txt - cross validation set - 67.6991
+cleans101_svm_50.txt - training split - 92.4779
+cleans101_svm_50.txt - test split - 69.0265
+cleans101_svm_66.txt - training split - 89.9329
+cleans101_svm_66.txt - test split - 67.5325
+cleans101_svm_75.txt - training split - 89.9705
+cleans101_svm_75.txt - test split - 75.2212
+cleans101_svm_90.txt - training split - 89.4349
+cleans101_svm_90.txt - test split - 75.5556
+cleans101_svm_cross.txt - training data - 89.3805
+cleans101_svm_cross.txt - cross validation set - 71.2389
+cleans37_ada_50.txt - training split - 100.0
+cleans37_ada_50.txt - test split - 74.7788
+cleans37_ada_66.txt - training split - 100.0
+cleans37_ada_66.txt - test split - 68.1818
+cleans37_ada_75.txt - training split - 100.0
+cleans37_ada_75.txt - test split - 74.3363
+cleans37_ada_90.txt - training split - 100.0
+cleans37_ada_90.txt - test split - 73.3333
+cleans37_ada_cross.txt - training data - 100.0
+cleans37_ada_cross.txt - cross validation set - 72.5664
+cleans37_j48_50.txt - training split - 91.1504
+cleans37_j48_50.txt - test split - 67.2566
+cleans37_j48_60.txt - training split - 89.2617
+cleans37_j48_60.txt - test split - 62.987
+cleans37_j48_75.txt - training split - 93.8053
+cleans37_j48_75.txt - test split - 65.4867
+cleans37_j48_90.txt - training split - 90.9091
+cleans37_j48_90.txt - test split - 64.4444
+cleans37_j48cross_.txt - training data - 92.2566
+cleans37_j48cross_.txt - cross validation set - 67.0354
+cleans37_knn_50.txt - training split - 100.0
+cleans37_knn_50.txt - test split - 52.6549
+cleans37_knn_66.txt - training split - 100.0
+cleans37_knn_66.txt - test split - 53.2468
+cleans37_knn_75.txt - training split - 100.0
+cleans37_knn_75.txt - test split - 53.0973
+cleans37_knn_90.txt - training split - 99.7543
+cleans37_knn_90.txt - test split - 60.0
+cleans37_knn_cross.txt - training data - 99.7788
+cleans37_knn_cross.txt - cross validation set - 51.7699
+cleans37_mlp_50.txt - training split - 97.7876
+cleans37_mlp_50.txt - test split - 66.8142
+cleans37_mlp_66.txt - training split - 97.9866
+cleans37_mlp_66.txt - test split - 64.9351
+cleans37_mlp_75.txt - training split - 96.7552
+cleans37_mlp_75.txt - test split - 73.4513
+cleans37_mlp_90.txt - training split - 95.086
+cleans37_mlp_90.txt - test split - 82.2222
+cleans37_mlp_cross.txt - training data - 94.6903
+cleans37_mlp_cross.txt - cross validation set - 69.2478
+cleans37_nb_50.txt - training split - 78.7611
+cleans37_nb_50.txt - test split - 56.1947
+cleans37_nb_66.txt - training split - 80.8725
+cleans37_nb_66.txt - test split - 55.1948
+cleans37_nb_75.txt - training split - 79.941
+cleans37_nb_75.txt - test split - 62.8319
+cleans37_nb_90.txt - training split - 75.1843
+cleans37_nb_90.txt - test split - 73.3333
+cleans37_nb_cross.txt - training data - 76.9912
+cleans37_nb_cross.txt - cross validation set - 60.8407
+cleans37_rf_50.txt - training split - 100.0
+cleans37_rf_50.txt - test split - 66.3717
+cleans37_rf_66.txt - training split - 100.0
+cleans37_rf_66.txt - test split - 64.9351
+cleans37_rf_75.txt - training split - 100.0
+cleans37_rf_75.txt - test split - 69.9115
+cleans37_rf_90.txt - training split - 100.0
+cleans37_rf_90.txt - test split - 71.1111
+cleans37_rf_cross.txt - training data - 100.0
+cleans37_rf_cross.txt - cross validation set - 69.2478
+cleans37_svm_50.txt - training split - 93.3628
+cleans37_svm_50.txt - test split - 70.354
+cleans37_svm_66.txt - training split - 92.2819
+cleans37_svm_66.txt - test split - 68.8312
+cleans37_svm_75.txt - training split - 90.5605
+cleans37_svm_75.txt - test split - 69.9115
+cleans37_svm_90.txt - training split - 88.9435
+cleans37_svm_90.txt - test split - 84.4444
+cleans37_svm_cross.txt - training data - 89.3805
+cleans37_svm_cross.txt - cross validation set - 71.0177
+cleans73_ada_50.txt - training split - 100.0
+cleans73_ada_50.txt - test split - 68.5841
+cleans73_ada_66.txt - training split - 100.0
+cleans73_ada_66.txt - test split - 71.4286
+cleans73_ada_75.txt - training split - 100.0
+cleans73_ada_75.txt - test split - 76.1062
+cleans73_ada_90.txt - training split - 100.0
+cleans73_ada_90.txt - test split - 53.3333
+cleans73_ada_cross.txt - training data - 100.0
+cleans73_ada_cross.txt - cross validation set - 72.5664
+cleans73_j48_50.txt - training split - 90.2655
+cleans73_j48_50.txt - test split - 61.9469
+cleans73_j48_60.txt - training split - 93.6242
+cleans73_j48_60.txt - test split - 62.3377
+cleans73_j48_75.txt - training split - 89.0855
+cleans73_j48_75.txt - test split - 70.7965
+cleans73_j48_90.txt - training split - 90.6634
+cleans73_j48_90.txt - test split - 55.5556
+cleans73_j48cross_.txt - training data - 92.2566
+cleans73_j48cross_.txt - cross validation set - 65.4867
+cleans73_knn_50.txt - training split - 100.0
+cleans73_knn_50.txt - test split - 50.4425
+cleans73_knn_66.txt - training split - 99.6644
+cleans73_knn_66.txt - test split - 49.3506
+cleans73_knn_75.txt - training split - 100.0
+cleans73_knn_75.txt - test split - 52.2124
+cleans73_knn_90.txt - training split - 99.7543
+cleans73_knn_90.txt - test split - 42.2222
+cleans73_knn_cross.txt - training data - 99.7788
+cleans73_knn_cross.txt - cross validation set - 53.5398
+cleans73_mlp_cross.txt - training data - 82.7434
+cleans73_mlp_cross.txt - cross validation set - 67.6991
+cleans73_nb_50.txt - training split - 88.0531
+cleans73_nb_50.txt - test split - 60.6195
+cleans73_nb_66.txt - training split - 79.5302
+cleans73_nb_66.txt - test split - 60.3896
+cleans73_nb_75.txt - training split - 79.351
+cleans73_nb_75.txt - test split - 58.4071
+cleans73_nb_90.txt - training split - 76.1671
+cleans73_nb_90.txt - test split - 46.6667
+cleans73_nb_cross.txt - training data - 76.9912
+cleans73_nb_cross.txt - cross validation set - 61.9469
+cleans73_rf_50.txt - training split - 100.0
+cleans73_rf_50.txt - test split - 63.2743
+cleans73_rf_66.txt - training split - 100.0
+cleans73_rf_66.txt - test split - 71.4286
+cleans73_rf_75.txt - training split - 100.0
+cleans73_rf_75.txt - test split - 71.6814
+cleans73_rf_90.txt - training split - 100.0
+cleans73_rf_90.txt - test split - 51.1111
+cleans73_rf_cross.txt - training data - 100.0
+cleans73_rf_cross.txt - cross validation set - 67.2566
+cleans73_svm_50.txt - training split - 92.9204
+cleans73_svm_50.txt - test split - 70.354
+cleans73_svm_66.txt - training split - 90.2685
+cleans73_svm_66.txt - test split - 70.7792
+cleans73_svm_75.txt - training split - 91.1504
+cleans73_svm_75.txt - test split - 77.8761
+cleans73_svm_90.txt - training split - 89.9263
+cleans73_svm_90.txt - test split - 55.5556
+cleans73_svm_cross.txt - training data - 88.9381
+cleans73_svm_cross.txt - cross validation set - 70.5752
